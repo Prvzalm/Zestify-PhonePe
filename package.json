@@ -57,6 +57,5 @@
   "main": "server.js",
   "author": "waleed shaikh",
   "license": "ISC",
-  "description": "",
-  "proxy": "http://127.0.0.1:3000"
+  "description": ""
 }
